@@ -1,4 +1,4 @@
 *.zip
 *.pth
 /sms_spam_collection
-instruction-data.json
+instruction-data.json*.pth
